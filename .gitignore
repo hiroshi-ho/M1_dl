@@ -1,0 +1,8 @@
+Book_review_classification/data/
+Book_review_classification/src/
+Book_review_classification/*.vector
+Book_review_classification/train_dev_test/
+Book_review_classification/*.vector*
+Book_review_classification/positive.review.vector_div100
+Book_review_classification/negative.review.vector_div100
+Book_review_classification_backup/train_dev_test/
